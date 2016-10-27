@@ -12,7 +12,7 @@ http://www.sumologic.com/
 
 Add this line to your application's Gemfile:
 
-    gem 'fluent-plugin-sumologic'
+    gem 'fluent-plugin-sumologic-2'
 
 And then execute:
 
@@ -20,7 +20,7 @@ And then execute:
 
 Or install it yourself as:
 
-    $ gem install fluent-plugin-sumologic
+    $ gem install fluent-plugin-sumologic-2
 
 ## Usage
 

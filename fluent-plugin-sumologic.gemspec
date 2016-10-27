@@ -3,13 +3,13 @@ lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
-  spec.name          = "fluent-plugin-sumologic"
-  spec.version       = "0.0.1" 
-  spec.authors       = ["memorycraft"]
-  spec.email         = ["memorycraft@gmail.com"]
+  spec.name          = "fluent-plugin-sumologic-2"
+  spec.version       = "0.1.0"
+  spec.authors       = ["memorycraft", "adambom"]
+  spec.email         = ["memorycraft@gmail.com", "adam.savitzky@gmail.com"]
   spec.description   = %q{fluent plugin for sumologic}
   spec.summary       = %q{sumologic is log management system. this plugin is fluent output plugin send to sumologic}
-  spec.homepage      = "https://github.com/memorycraft/fluent-plugin-sumologic"
+  spec.homepage      = "https://github.com/adambom/fluent-plugin-sumologic"
   spec.license       = "MIT"
 
   spec.rubyforge_project = "fluent-plugin-sumologic"

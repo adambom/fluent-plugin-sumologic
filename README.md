@@ -57,6 +57,9 @@ Or install it yourself as:
 #### verify_ssl
 - Verify ssl certificate. Default is true.
 
+#### debug
+- Output http debug log lines to stderr. Default is false.
+
 ## Contributing
 
 1. Fork it
